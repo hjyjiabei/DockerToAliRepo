@@ -1,7 +1,7 @@
 #redis:7.4.1
 #nginx:1.27.2
-#openjdk:8
-eclipse-temurin:21-jre-jammy
+eclipse-temurin:8-jdk-jammy
+#eclipse-temurin:21-jre-jammy
 #postgres:18.3
 #mysql:8.0.45
 #mongo

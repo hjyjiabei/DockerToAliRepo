@@ -1,9 +1,9 @@
 #redis:7.4.1
 #nginx:1.27.2
 #openjdk:8
-leixuewen/alpine-openjdk21-jre
-#postgres:18.3
-#mysql:8.0.45
+#leixuewen/alpine-openjdk21-jre
+postgres:18.3
+mysql:8.0.45
 #mongo
 #Nacos:2.4.0
 #Seata:2.1.0
